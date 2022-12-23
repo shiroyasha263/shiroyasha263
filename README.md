@@ -16,7 +16,7 @@
   
   - Path Tracer using OPTIX
   - Volumetric Rendering using photon mapping and photon beams
-  - Unity Shaders (HLSL)
+  - Virtual reality and Mixed Reality
   - OpenGL (And GLSL Shaders but not quite at the point to integrate fancy shaders with opengl code)
   - Game Development
 
