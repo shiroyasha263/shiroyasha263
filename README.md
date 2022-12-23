@@ -27,10 +27,5 @@
   
 ### How to reach me
   &nbsp; &nbsp; &nbsp; 
-  <a href="mailto: vishesh@kgpian.iitkgp.ac.in"><img align="justify" src="https://raw.githubusercontent.com/Aryan-Satpathy/Aryan-Satpathy/main/Images/Untitled%20design.png" alt="Vishesh Gupta | Mail" width="21px"/></a>
-  &nbsp; <a href="https://www.linkedin.com/in/vishesh-gupta-5928b3216/"><img align="justify" src="https://raw.githubusercontent.com/Aryan-Satpathy/Aryan-Satpathy/main/Images/in.png" alt="Vishesh Gupta | LinkedIn" width="21px"/></a>
-
-<!--
-
-<a href="https://www.linkedin.com/in/aryan-satpathy-35b901221/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/mail.svg" alt="Aryan Satpathy | LinkedIn" width="21px"/></a>
--->
+  <a href="mailto: vishesh@kgpian.iitkgp.ac.in"><img align="justify" src="https://github.com/shiroyasha263/shiroyasha263/blob/main/Gmail_icon_(2020).svg.png" alt="Vishesh Gupta | Mail" width="21px"/></a>
+  &nbsp; <a href="https://www.linkedin.com/in/vishesh-gupta-5928b3216/"><img align="justify" src="https://github.com/shiroyasha263/shiroyasha263/blob/main/174857.png" alt="Vishesh Gupta | LinkedIn" width="21px"/></a>
