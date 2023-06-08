@@ -8,22 +8,15 @@
 
   I'm an electrical engineering undergraduate at IIT Kharagpur (2024 batch).
   My primary language is C++ but I can do C#, C, python.
-  I'm interested in computer graphics, raytracing, light transport and simulations and looking forward to learn more.
-  I've had a sudden interest surge in the field of computer architecture, the inner workings of operating systems, and GPU architecture.
-  I'm pretty new around here and project count's low, but feel free to go through them and contribute. 
+  I'm interested in computer graphics, raytracing, light transport and simulations.
 
 ### I’m currently working on 
   
-  - Path Tracer using OPTIX
-  - Volumetric Rendering using photon mapping and photon beams
-  - Virtual reality and Mixed Reality
-  - OpenGL (And GLSL Shaders but not quite at the point to integrate fancy shaders with opengl code)
-  - Game Development
+  - 
 
 ### I’m currently learning 
 
-  - Monte carlo methods and importance sampling
-  - Computer architecture and Operating system
+  - 
   
 ### How to reach me
   &nbsp; &nbsp; &nbsp; 
