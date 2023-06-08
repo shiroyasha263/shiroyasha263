@@ -12,11 +12,11 @@
 
 ### I’m currently working on 
   
-  - 
+  - Implementing ReSTIR-DI into a real time path tracer
 
 ### I’m currently learning 
 
-  - 
+  - Various light sampling methods, such as lightcuts and ReSTIR
   
 ### How to reach me
   &nbsp; &nbsp; &nbsp; 
