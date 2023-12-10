@@ -6,17 +6,11 @@
 
 ### About me 
 
-  I'm an electrical engineering undergraduate at IIT Kharagpur (2024 batch).
-  My primary language is C++ but I can do C#, C, python.
-  I'm interested in computer graphics, raytracing, light transport and simulations.
+  I am a final year undergraduate student in the Department of Electrical Engineering at Indian Institute of Technology, Kharagpur. 
 
-### I’m currently working on 
-  
-  - Implementing ReSTIR-DI into a real time path tracer
+### Research Interests
 
-### I’m currently learning 
-
-  - Various light sampling methods, such as lightcuts and ReSTIR
+  I am interested in computer graphics; specifically physically based rendering, light transport simulation, sampling, and its real-time applications. Alongside this, I am also interested in exploring physics simulation for different phenomenons. 
   
 ### How to reach me
   &nbsp; &nbsp; &nbsp; 
