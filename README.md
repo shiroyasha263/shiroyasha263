@@ -14,5 +14,5 @@
   
 ### How to reach me
   &nbsp; &nbsp; &nbsp; 
-  <a href="mailto: vishesh2603@gmail.com"><img align="justify" src="https://github.com/shiroyasha263/shiroyasha263/blob/main/Gmail_icon_(2020).svg.png" alt="Vishesh Gupta | Mail" width="21px"/></a>
+  <a href="mailto: guptavishesh263@gmail.com"><img align="justify" src="https://github.com/shiroyasha263/shiroyasha263/blob/main/Gmail_icon_(2020).svg.png" alt="Vishesh Gupta | Mail" width="21px"/></a>
   &nbsp; <a href="https://www.linkedin.com/in/vishesh-gupta-5928b3216/"><img align="justify" src="https://github.com/shiroyasha263/shiroyasha263/blob/main/174857.png" alt="Vishesh Gupta | LinkedIn" width="21px"/></a>
