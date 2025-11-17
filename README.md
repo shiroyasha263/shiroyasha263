@@ -10,7 +10,7 @@
 
 ### Research Interests
 
-  I am interested in computer graphics, and differetiable simulations for design problems; specifically light transport simulation, and trying to use that for designing lens. 
+  My research interests include, but are not limited to generative rendering, physically-based (differentiable) rendering, inverse (graphics) problems and AI aided design. I am interested in developing numerical and optimization methods to simulate and engineer optical properties of lenses for applications in imaging and computational photography.
   
 ### How to reach me
   &nbsp; &nbsp; &nbsp; 
