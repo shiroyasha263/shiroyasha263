@@ -6,11 +6,11 @@
 
 ### About me 
 
-  I am currently interning at Max Planck Institute for Informatics advised by Dr. Gurprit Singh. I graduated from Indian Institute of Technology, Kharagpur with a Bachelors in Electrical Engineering in 2024.
+  I am currently working as a research assistant at Trinity College Dublin advised by Dr. Binh-Son Hua working on generative rendering - utilizing the broad pixel-space knowledge of 2D image-based diffusion models and applying them to accelerate and control our 3D image renderers. I graduated from Indian Institute of Technology, Kharagpur with a Bachelors in Electrical Engineering in 2024.
 
 ### Research Interests
 
-  I am interested in computer graphics; specifically light transport simulation, monte carlo sampling and real-time path tracing. I would also like to explore how to leverage latest machine learning research to improve rendering. 
+  I am interested in computer graphics, and differetiable simulations for design problems; specifically light transport simulation, and trying to use that for designing lens. 
   
 ### How to reach me
   &nbsp; &nbsp; &nbsp; 
